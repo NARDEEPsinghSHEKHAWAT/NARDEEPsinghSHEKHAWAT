@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm NARDEEP SINGH SHEKHAWAT</h1>
-<h3 align="center">A passionate coder and Electronics and Communication engineer from India.</h3>
+<h3 align="center">A passionate Coder👨🏻‍💻 and Electronics and Communication engineer from India❤.</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/94340453/222454454-1ba6caa1-6c93-4bf6-80a6-6821aadfaeee.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nardeepsinghshekhawat&label=Profile%20views&color=0e75b6&style=flat" alt="nardeepsinghshekhawat" /> </p>
 
