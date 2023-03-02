@@ -1,15 +1,16 @@
-<h1 align="center">Hi 👋, I'm NARDEEP SINGH SHEKHAWAT</h1>
+![logo](https://github.com/NARDEEPsinghSHEKHAWAT/NARDEEPsinghSHEKHAWAT/blob/main/Banner.png)
+<h1 align="center">Hi 👋, I'm Nardeep Singh Shekhawat</h1>
 <h3 align="center">A passionate Coder👨🏻‍💻 and Electronics and Communication engineer from India❤.</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/94340453/222454454-1ba6caa1-6c93-4bf6-80a6-6821aadfaeee.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nardeepsinghshekhawat&label=Profile%20views&color=0e75b6&style=flat" alt="nardeepsinghshekhawat" /> </p>
 
 - 🔭 I’m currently working on **Hospital Management System 🏥 and Autonomous car 🚗**
 
-- 🌱 I’m currently learning **ADVANCE CODING, JAVA, MERN STACK 👨🏻‍💻**
+- 🌱 I’m currently learning **DSA, DYNAMIC PROGRAMMING, JAVA, MERN STACK 👨🏻‍💻**
 
 - 💬 Ask me about **R, SQL, PLSQL, C, C++, MATLAB, ARDUINO IDEs. 🙋🏻‍♂️**
 
-- 📫 How to reach me **nardeep.12016980@lpu.in**
+- 📫 How to reach me **sandeepshekhawat54052@gmail.com / nardeep.12016980@lpu.in**
 
 - ⚡ Fun fact **I think I am the REAL definition of PERFECTION 🎯**
 
