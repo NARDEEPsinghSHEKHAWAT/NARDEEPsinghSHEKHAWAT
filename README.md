@@ -1,4 +1,4 @@
-![logo](https://github.com/NARDEEPsinghSHEKHAWAT/NARDEEPsinghSHEKHAWAT/blob/main/Banner.png)
+![logo](https://github.com/NARDEEPsinghSHEKHAWAT/NARDEEPsinghSHEKHAWAT/blob/main/Banner%20(1).png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nardeepsinghshekhawat&label=Profile%20views&color=0e75b6&style=flat" alt="nardeepsinghshekhawat" /> </p>
 
